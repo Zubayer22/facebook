@@ -1,0 +1,179 @@
+*{
+	font-family: sans-serif;
+	margin: 0;
+	padding: 0;
+}
+.header{
+	background-color: #3B5998;
+}
+.wrapper{
+	width: 75%;
+	margin: 0 auto;
+	overflow: hidden;
+}
+.logo_part{
+	width: 20%;
+	float: left;
+}
+.logo_part a{
+	text-decoration: none;
+	color: white;
+}
+.facebook{
+	margin-top: 27px;
+    font-size: 40px;
+}
+.login_part{
+	width: 42%;
+	float: right;
+	margin-top: 9px;
+}
+.input_e{
+ 	font-size: 12px;
+	color: white;
+	float: left;
+	line-height: 25px;
+	margin-right: 17px;
+}
+.input_e a{
+	font-size: 12px;
+	color: #8FB4CC;
+	text-decoration: none;
+}
+.input_e a:hover{
+	border-bottom: 1px solid #8FB4CC;
+}
+.email{
+	width: 160px;
+    height: 18px; 
+}
+.password{
+	width: 160px;
+    height: 18px; 
+}
+.button{
+	margin-top: 26px;
+    padding: 4px;
+    border: none;
+    background-color: #49659F;
+    box-shadow: 0 0px 5px 0 rgba(0,0,0,.2);
+}
+.button:hover{
+	background-color: #3B5998;
+}
+.button a{
+	padding: 4px;
+    padding-top: 10px;
+    text-decoration: none;
+    color: white;
+}
+
+/*sign up section start*/
+.sign_up{
+	background-image: linear-gradient(180deg, #ffffff, #D7DCEA);
+}
+.sign_up_left{
+	width: 50%;
+	float: left;
+	margin-top: 50px;
+}
+.sign_up_left h3{
+	font-size: 20px;
+	color: #0E385F;
+	line-height: 30px;
+}
+.sign_up_left img{
+	width: 100%;
+
+}
+.sign_up_right{
+	width: 45%;
+	float: right;
+	margin-top: 40px;
+}
+.sign_up_right h1{
+	font-size: 40px;
+    color: #333333;
+}
+.quik{
+	font-size: 21px;
+    margin: 13px 0;
+}
+
+
+#First-name {
+	font-size: 18px;
+    padding: 8px 0 8px 11px;
+    border-radius: 6px;
+    width: 45%;
+    border: 1px solid #BDC7D8;
+    margin-right: 13px;
+    outline: none;
+}
+#surname {
+	font-size: 18px;
+    padding: 8px 0 8px 11px;
+    border-radius: 6px;
+    width: 45%;
+    border: 1px solid #BDC7D8;
+    outline: none;
+}
+#Email1{
+	font-size: 18px;
+    margin-top: 10px;
+    border-radius: 7px;
+    padding: 8px 0px 8px 10px;
+    width: 97%;
+    border: 1px solid #BDC7D8;
+    outline: none;
+}
+#password1{
+	font-size: 18px;
+    margin-top: 10px;
+    border-radius: 7px;
+    padding: 8px 0px 8px 10px;
+    width: 97%;
+    border: 1px solid #BDC7D8;
+    outline: none;
+}
+.birth-date{
+	    margin-top: 26px;
+}
+.gender, .birthday{
+	font-family: sans-serif;
+	font-weight: 600;
+	font-size: 18px;
+	color: #90949C;
+}
+.main{
+	width: 15%;
+    font-size: 14px;
+    height: 29px;
+    margin-top: 10px;
+    border: 1px solid #BDC7D8;
+}
+.gender_inp{
+	margin-top: 10px;
+}
+.Gender{
+	margin-left: 15px;
+}
+.g_name{
+	margin-top: 10px;
+}
+.data_policy{
+	font-size: 10px;
+    margin: 0 0 14px 0;
+}
+.sign{
+	background-color: #6CA958;
+    width: 50%;
+    color: white;
+    height: 42px;
+    font-size: 25px;
+    border-radius: 7px;
+    border: 1px solid #BDC7D8;
+}
+.creat_page{
+	margin-top: 30px;
+}
